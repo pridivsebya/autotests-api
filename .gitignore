@@ -1,0 +1,25 @@
+# Виртуальное окружение
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Сгенерированные файлы из .proto
+*_pb2.py
+*_pb2_grpc.py
+
+# Переменные окружения
+.env
+
+# Настройки IDE
+.vscode/
+
+# Логи
+*.log
+
+# OS файлы
+.DS_Store
+Thumbs.db
